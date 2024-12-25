@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm B A NaveenKumar</h1>
-<h3 align="center">Innovative Deep Learning Engineer with over 3.7 years of experience in Research and Engineering, specialized in developing large-scale AI solutions across multiple domains and modalities to drive significant improvements in efficiency and accuracy.</h3>
+<h3 align="center">Innovative Deep Learning Engineer with over 4.0 years of experience in Research and Engineering, specialized in developing large-scale AI solutions across multiple domains and modalities to drive significant improvements in efficiency and accuracy.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basaanithanaveenkumar&label=Profile%20views&color=0e75b6&style=flat" alt="basaanithanaveenkumar" /> </p>
 
