@@ -1,0 +1,21 @@
+{
+  "primary_focus": "Deep learning / ML roles at humanoid robotics companies",
+  "roles": ["ML Engineer", "Senior ML Engineer", "Staff ML Engineer", "Research Engineer", "Perception Learning Engineer", "Reinforcement Learning Engineer", "Robotics ML Engineer", "Manipulation Engineer", "Embodied AI Engineer", "Research Scientist"],
+  "domains": [
+    "Autonomous Driving / ADAS (perception, prediction, planning, sensor fusion)",
+    "Robotics (manipulation, locomotion, sim-to-real)",
+    "Vision-Language-Action (VLA) models (RT-2, PaLM-E, 3D multimodal)",
+    "World Models (generative simulation, predictive dynamics, model-based RL)",
+    "Foundation / Pretraining Models (large-scale SSL, MAE, Diffusion, distributed training)",
+    "Medical Imaging (diagnostic AI, segmentation, reconstruction, multimodal fusion)"
+  ],
+  "domain_priority": ["Robotics", "Vision-Language-Action (VLA) models", "World Models", "Foundation / Pretraining Models", "Autonomous Driving / ADAS"],
+  "keywords": ["humanoid", "loco-manipulation", "sim-to-real", "legged robot", "dexterous manipulation", "embodied AI", "VLA", "diffusion policy", "world model", "foundation model", "autonomous driving", "medical imaging"],
+  "priority_companies": ["Figure AI", "Apptronik", "1X", "Agility", "Boston Dynamics", "Tesla", "NVIDIA", "DeepMind", "Waymo", "Cruise", "Motional", "GE Healthcare", "Siemens Healthineers", "Physical Intelligence", "Skild AI", "Sanctuary AI", "Unitree", "Neura Robotics", "Humanoid (SKL)", "Fourier", "UBTech", "Toyota Research Institute"],
+  "must_haves": ["PyTorch", "Python", "C++", "distributed training", "sim-to-real"],
+  "nice_to_haves": ["IsaacSim", "MuJoCo", "JAX", "ROS2", "GR00T", "VLA", "Diffusion Policy", "RL", "imitation learning", "MAE", "MONAI"],
+  "resume_gaps_do_not_claim": ["sim-to-real on physical robots", "IsaacSim", "MuJoCo", "JAX", "MONAI", "medical imaging", "PhD"],
+  "location": ["USA", "Canada", "UK", "Germany", "Switzerland", "Japan", "Australia", "Remote"],
+  "min_salary": 180000,
+  "min_years": 3
+}
